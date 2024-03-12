@@ -1,2 +1,2 @@
-# comments_wiper_from_code
-Python script which deletes all comments from the code
+# comments_wiper_from_the_code
+Simple python script which deletes all comments from the code
